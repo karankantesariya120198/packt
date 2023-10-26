@@ -57,7 +57,9 @@ Please check the official laravel installation guide for server requirements bef
 
 Clone the repository
 
-    git clone git@github.com:gothinkster/laravel-realworld-example-app.git
+    git clone https://github.com/karankantesariya120198/packt.git
+
+    git checkout master
 
 Switch to the repo folder
 
